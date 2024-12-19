@@ -59,11 +59,12 @@
 </div>
 
 <hr/>
-
 <h2 align="center">
-   Stats 
-  <img src="https://media.giphy.com/media/xT9IggD5wYeFByVvhG/giphy.gif" width="30" alt="stats gif">
+  ⚡ Stats ⚡
 </h2>
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hqdGthMjUweXE3amd3OTB2aTFicmQ2aDc4NDd6YjNhb2RlNG95dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CtqI1GmvT0YVO/200.webp" width="150" alt="stats gif">
+</div>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=Chaitanyakota9&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -71,6 +72,5 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyakota9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 
