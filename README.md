@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chaitanyakota9.Chaitanyakota9" />
+
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
