@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **App Development**
+ 🔭 I’m currently working on **Somethng!**
  
- 🌱 I’m currently learning **German, AWS, Flutter**
+ 🌱 I’m currently learning **Anything..**
 
  </div>
  
