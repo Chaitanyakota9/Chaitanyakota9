@@ -56,6 +56,10 @@
 
 <br/>
 
+<p align="center"><em>you didnt get 5 github followers without making some enemies</em></p>
+
+<br/>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Chaitanyakota9/count.svg" />
